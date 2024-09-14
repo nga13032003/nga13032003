@@ -15,7 +15,6 @@ I'm a passionate developer with a love for learning and collaborating on interes
 
 - **Languages**: ![JavaScript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=black), ![Python](https://img.shields.io/badge/-Python-306998?style=flat&logo=python&logoColor=white)
 - **Frontend**: ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-- **Backend**: ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 - **Databases**: ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 <!---
